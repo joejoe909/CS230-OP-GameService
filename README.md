@@ -8,7 +8,7 @@
 
 <br>
 
-#### The course CS-230 Operating Platforms at Southern New Hampshire University provides an excelent introduction to design concepts such as UML, design patterns, Software Design Templates, Design Constraints, Processing and Threading, Operating System Concepts, Polyglot Programming, Rest, Platform and Software Security, Memory, and Storage Management, Writing a Software Design Document, and cloud computing.  
+### The course CS-230 Operating Platforms at Southern New Hampshire University provides an excelent introduction to design concepts such as UML, design patterns, Software Design Templates, Design Constraints, Processing and Threading, Operating System Concepts, Polyglot Programming, Rest, Platform and Software Security, Memory, and Storage Management, Writing a Software Design Document, and cloud computing.  
 
 <br>
 
