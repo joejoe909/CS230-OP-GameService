@@ -2,7 +2,7 @@
 #### This Repo includes:
  * Software Design Document. 
  * Mock Authorization Service. 
- * The Game Service - Manage Teams and Users.
+ * The Game Service - Manages Teams and Users.
 
 ### Introduction
 
@@ -33,12 +33,12 @@
 
 <br>
 
-### I would improve the current design is to integrating the game service into the Game Authenticator. I would add a GUI in HTML or use a library such as REACT. I would then create a UML diagram for the Authenticator.
+### I would improve the current design by adding a UML diagram for the Authenticator. Next integrating the game service into the Game Authenticator, and finaly add a GUI in HTML or use a library such as REACT. 
 
 
 <br>
 
-### A significant element of this lesson was gathering User Requirements and then considering Design Constraints. This is the whole point of a Software Design Document. In future endeavors, this method can help communicate a plan of action with a client and guide the design process. A good thing about my experience in this class is that I was also taking a course on the Software Development Life Cycle, which covers Agile and Scrum. The importance of understanding user requirements has now been well emphasized and worked into my development process. I would improve this document by adding the Agile/Scrum angle to the Software Design Document. I would then convert Requirements to User Stories while considering Design Constraints. 
+### A significant element of this lesson was gathering User Requirements and then considering Design Constraints. This is the whole point of a Software Design Document. In future endeavors, this method can help communicate a plan of action with a client and guide the design process. A good thing about my experience in this class is that I was also taking a course on the Software Development Life Cycle, which covers Agile and Scrum. The importance of understanding user requirements has been well emphasized in my education and worked into my development process. I would improve this document by adding the Agile/Scrum angle to the Software Design Document and process as a whole. I would then convert Requirements to User Stories while considering Design Constraints. 
 
 <br>
 
